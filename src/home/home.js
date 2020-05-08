@@ -1,10 +1,8 @@
 import * as React from 'react';
 
-export const Home = () => {
+export const home = () => {
 
     return (
-        <div>
-            <h1>Hey I'm Lindsey</h1>
-        </div>
+        <home name="Lindsey B"/>
     );
 };
